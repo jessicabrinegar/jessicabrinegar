@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicabrinegar
-- 🌱 I’m learning the basics; currently a student at 4 Geeks Academy.
+- 🌱 I’m learning; currently a student at 4 Geeks Academy.
 - 📫 You can reach me at jessicabrinegar@outlook.com.
 
 <!---
