@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicabrinegar
-- 🌱 I’m currently a student at 4 Geeks Academy
+- 🌱 I miraculously found coding/programming while in a Cognitive Science master's program, leading me to drop out to pursue a career in software development. I’m currently a coding bootcamp (& self-taught) student, and look forward to the journey ahead!
 - 📫 You can reach me at jessicabrinegar@outlook.com
 
 <!---
