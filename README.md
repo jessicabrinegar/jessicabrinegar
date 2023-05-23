@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicabrinegar
-- 🌱 I miraculously found my love of programming, data analysis, and data visualization while in a Cognitive Science master's program, leading me to terminate my academic career to become a developer. I have completed a full-stack bootcamp and am continuing my education through self-learning and various online courses. With my analytical mind, attention to detail, and unwavering curiosity, I envision myself one day working in data science, cybersecurity, or AI engineering. When I'm not coding, I'm travelling to new places, playing piano or tennis, skiing, or taking a bike ride!
+- 🌱 I am currently a software developer at [Electronic Caregiver](https://electroniccaregiver.com/), a virtual healthcare company located in New Mexico. My degree is in biology, and I have a professional background in healthcare and academic research. When I'm not coding, I'm spending time outdoors (biking, skiing, hiking, tennis), playing piano, reading a good book, or volunteering with [STEM Santa Fe](https://www.stemsantafe.org/). 
 - 📫 You can reach me at jessicabrinegar@outlook.com
 
 <!---
