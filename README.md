@@ -25,7 +25,8 @@
 
 <h5>Tech I'm familiar with</h5>
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
 </p>
