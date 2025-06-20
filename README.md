@@ -1,5 +1,5 @@
 👋 Hi, I’m Jessica Brinegar.  
-🌱 I am currently a backend developer at [Electronic Caregiver](https://electroniccaregiver.com/), a healthcare company located in New Mexico. My degree is in biology, and I have a professional background in healthcare and academic research. When I'm not coding, I'm usually playing piano or spending time outdoors.  
+🌱 I am currently a backend developer at [Electronic Caregiver](https://electroniccaregiver.com/), a healthcare company located in New Mexico. When I'm not coding, I'm playing piano or spending time outdoors.  
 📫 You can reach me at jessicabrinegar@outlook.com.  
 
 <h5>Languages</h5>
